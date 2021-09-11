@@ -30,3 +30,15 @@ If you have a conda environment, it is possible to install the "reduce" command 
 `conda install -c ostrokach-forge reduce`. The command is used as in the following example:
 
 `reduce -BUILD -i 5jjt.pdb > 5jjtFH.pdb`
+## Usage
+The FG_dssp program takes 2 arguments as input. The first argument is the name of the PDB file containing the hydrogen atoms. The second is the letter, in capital letters, of the chain concerned. Basically, the program launches as the following way :
+
+`python3 FG_dssp.py 5jjtFH.pdb B`
+
+If your files are in different directories, as is the case in this Github repository, it is still possible to enter the command this way:
+
+`python3 ./Projet_FG_DSSP/src/FG_dssp.py ./Projet_FG_DSSP/data/5jjtFH.pdb B`
+
+The results of the program are displayed by default in the terminal. If you want to keep the results obtained in a file, you can use ">" to transfer them to a new file. 
+
+Example: `python3 FG_dssp.py 5jjtFH.pdb B > 5jjt_dssp.txt`
