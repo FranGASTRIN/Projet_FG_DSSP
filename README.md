@@ -42,3 +42,5 @@ If your files are in different directories, as is the case in this Github reposi
 The results of the program are displayed by default in the terminal. If you want to keep the results obtained in a file, you can use ">" to transfer them to a new file. 
 
 Example: `python3 FG_dssp.py 5jjtFH.pdb B > 5jjt_dssp.txt`
+
+In case the user has any doubt about the operation of this program, a help will briefly recall the procedure to follow with an example by simply typing `python3 FG_dssp.py` in the terminal.
