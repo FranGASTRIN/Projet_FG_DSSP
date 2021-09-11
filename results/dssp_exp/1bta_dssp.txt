@@ -1,0 +1,110 @@
+==================================================
+Programme DSSP réalisé par :
+GASTRIN		François
+Etudiant en M2BI
+Université de Paris
+
+Fichier PDB traité : 1btaFH.pdb
+Chaine étudiée : A
+
+--------------------------------------------------
+
+NOMENCLATURE :
+
+Coil : Random coil
+3-T/4-T/5-T : Turn-3, Turn-4, Turn-5
+Helix 3/4/5-T : Hélice composée de turn 3, 4 ou 5
+B Para. : Feuillet bêta Parallèle
+B AntiP. : Feuillet bêta Anti-Parallèle
+==================================================
+
+Residu	Numéro	Structure
+______________________________
+
+LYS	1	Coil
+LYS	2	Coil
+ALA	3	B Para.
+VAL	4	B Para.
+ILE	5	B Para.
+ASN	6	4-T
+GLY	7	Coil
+GLU	8	Coil
+GLN	9	Coil
+ILE	10	Coil
+ARG	11	Coil
+SER	12	Helix 4-T
+ILE	13	Helix 4-T
+SER	14	Helix 4-T
+ASP	15	Helix 4-T
+LEU	16	Helix 4-T
+HIS	17	Helix 4-T
+GLN	18	Helix 4-T
+THR	19	Helix 4-T
+LEU	20	Helix 4-T
+LYS	21	Helix 4-T
+LYS	22	Coil
+GLU	23	Coil
+LEU	24	Coil
+ALA	25	Coil
+LEU	26	Coil
+GLU	28	Coil
+TYR	29	Coil
+TYR	30	Coil
+GLY	31	Coil
+GLU	32	Coil
+ASN	33	Helix 4-T
+LEU	34	Helix 4-T
+ASP	35	Helix 4-T
+ALA	36	Helix 4-T
+LEU	37	Helix 4-T
+TRP	38	Helix 4-T
+ASP	39	Coil
+CYS	40	5-T
+LEU	41	3-T
+THR	42	Coil
+GLY	43	Coil
+TRP	44	Coil
+VAL	45	Turn
+GLU	46	Coil
+TYR	47	Coil
+LEU	49	B Para.
+VAL	50	B Para.
+LEU	51	B Para.
+GLU	52	B Para.
+TRP	53	B Para.
+ARG	54	B Para.
+GLN	55	4-T
+PHE	56	3-T
+GLU	57	Helix 4-T
+GLN	58	Helix 4-T
+SER	59	Turn
+LYS	60	Turn
+GLN	61	3-T
+LEU	62	Coil
+THR	63	Coil
+GLU	64	Coil
+ASN	65	Coil
+GLY	66	Helix 4-T
+ALA	67	Helix 4-T
+GLU	68	Helix 4-T
+SER	69	Helix 4-T
+VAL	70	Helix 4-T
+LEU	71	Helix 4-T
+GLN	72	Helix 4-T
+VAL	73	Helix 4-T
+PHE	74	Helix 4-T
+ARG	75	Helix 4-T
+GLU	76	Helix 4-T
+ALA	77	5-T
+LYS	78	3-T
+ALA	79	Coil
+GLU	80	Coil
+GLY	81	Coil
+CYS	82	B Para.
+ASP	83	B Para.
+ILE	84	B Para.
+THR	85	B Para.
+ILE	86	B Para.
+ILE	87	Coil
+LEU	88	Coil
+SER	89	Coil

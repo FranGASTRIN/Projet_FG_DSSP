@@ -1,0 +1,473 @@
+==================================================
+Programme DSSP réalisé par :
+GASTRIN		François
+Etudiant en M2BI
+Université de Paris
+
+Fichier PDB traité : 5jjtFH.pdb
+Chaine étudiée : A
+
+--------------------------------------------------
+
+NOMENCLATURE :
+
+Coil : Random coil
+3-T/4-T/5-T : Turn-3, Turn-4, Turn-5
+Helix 3/4/5-T : Hélice composée de turn 3, 4 ou 5
+B Para. : Feuillet bêta Parallèle
+B AntiP. : Feuillet bêta Anti-Parallèle
+==================================================
+
+Residu	Numéro	Structure
+______________________________
+
+VAL	10	Coil
+SER	11	Helix 4-T
+ARG	12	Helix 4-T
+ALA	13	Helix 4-T
+GLU	14	Helix 4-T
+GLU	15	Helix 4-T
+PHE	16	Helix 4-T
+LYS	17	Helix 4-T
+SER	18	Helix 4-T
+GLN	19	Helix 4-T
+ALA	20	Helix 4-T
+ASN	21	Helix 4-T
+GLU	22	Helix 4-T
+ALA	23	5-T
+PHE	24	3-T
+LYS	25	Coil
+GLY	26	Coil
+HIS	27	Turn
+LYS	28	Helix 4-T
+TYR	29	Helix 4-T
+SER	30	Helix 4-T
+SER	31	Helix 4-T
+ALA	32	Helix 4-T
+ILE	33	Helix 4-T
+ASP	34	Helix 4-T
+LEU	35	Helix 4-T
+TYR	36	Helix 4-T
+THR	37	Helix 4-T
+LYS	38	Helix 4-T
+ALA	39	Helix 4-T
+ILE	40	Coil
+GLU	41	Coil
+LEU	42	Turn
+ASN	43	3-T
+SER	44	Coil
+ASN	45	Turn
+ASN	46	Helix 4-T
+ALA	47	Helix 4-T
+VAL	48	Helix 4-T
+TYR	49	Helix 4-T
+TRP	50	Helix 4-T
+ALA	51	Helix 4-T
+ASN	52	Helix 4-T
+ARG	53	Helix 4-T
+ALA	54	Helix 4-T
+PHE	55	Helix 4-T
+ALA	56	Helix 4-T
+HIS	57	5-T
+THR	58	3-T
+LYS	59	Coil
+LEU	60	Coil
+GLU	61	Turn
+GLU	62	Helix 4-T
+TYR	63	Helix 4-T
+GLY	64	Helix 4-T
+SER	65	Helix 4-T
+ALA	66	Helix 4-T
+ILE	67	Helix 4-T
+GLN	68	Helix 4-T
+ASP	69	Helix 4-T
+ALA	70	Helix 4-T
+SER	71	Helix 4-T
+LYS	72	Helix 4-T
+ALA	73	Helix 4-T
+ILE	74	Coil
+GLU	75	Coil
+VAL	76	Coil
+ASP	77	3-T
+SER	78	Coil
+ARG	79	Turn
+TYR	80	Helix 4-T
+SER	81	Helix 4-T
+LYS	82	Helix 4-T
+GLY	83	Helix 4-T
+TYR	84	Helix 4-T
+TYR	85	Helix 4-T
+ARG	86	Helix 4-T
+ARG	87	Helix 4-T
+GLY	88	Helix 4-T
+ALA	89	Helix 4-T
+ALA	90	Helix 4-T
+TYR	91	5-T
+LEU	92	3-T
+ALA	93	Coil
+MET	94	Coil
+GLY	95	Turn
+LYS	96	Helix 4-T
+PHE	97	Helix 4-T
+LYS	98	Helix 4-T
+ASP	99	Helix 4-T
+ALA	100	Helix 4-T
+LEU	101	Helix 4-T
+LYS	102	Helix 4-T
+ASP	103	Helix 4-T
+PHE	104	Helix 4-T
+GLN	105	Helix 4-T
+GLN	106	Helix 4-T
+VAL	107	Helix 4-T
+LYS	108	3-T
+ARG	109	Coil
+LEU	110	Coil
+SER	111	Coil
+ASN	113	Coil
+ALA	117	3-T
+THR	118	Turn
+ARG	119	B Para.
+LYS	120	B Para.
+LEU	121	B Para.
+LYS	122	B Para.
+GLU	123	B Para.
+CYS	124	B Para.
+GLU	125	B Para.
+LYS	126	B Para.
+ALA	127	B Para.
+VAL	128	B Para.
+MET	129	B Para.
+LYS	130	B Para.
+LEU	131	B Para.
+LYS	132	B Para.
+PHE	133	B Para.
+GLU	134	B Para.
+GLU	135	B Para.
+ALA	136	B Para.
+ILE	137	B Para.
+SER	138	B Para.
+VAL	139	Coil
+VAL	141	Turn
+SER	142	Turn
+GLU	143	Turn
+ARG	144	Turn
+ARG	145	Turn
+SER	146	3-T
+VAL	147	4-T
+ALA	148	Coil
+GLU	149	Coil
+SER	150	Coil
+ILE	151	Coil
+ASP	152	Helix 3-T
+PHE	153	Helix 3-T
+HIS	154	Coil
+THR	155	Turn
+ILE	156	Coil
+GLU	157	Turn
+VAL	158	Coil
+GLU	159	3-T
+GLN	161	Coil
+TYR	162	Coil
+SER	163	Coil
+GLY	164	Coil
+ALA	165	Coil
+ARG	166	Turn
+ILE	167	Coil
+GLU	168	Coil
+GLY	169	Coil
+GLU	170	Coil
+GLU	171	Turn
+VAL	172	Coil
+THR	173	Helix 4-T
+LEU	174	Helix 4-T
+ASP	175	Helix 4-T
+PHE	176	Helix 4-T
+VAL	177	Helix 4-T
+LYS	178	Helix 4-T
+THR	179	Helix 4-T
+MET	180	Helix 4-T
+MET	181	Helix 4-T
+GLU	182	Helix 4-T
+ASP	183	Coil
+PHE	184	3-T
+LYS	185	Coil
+ASN	186	Coil
+GLN	187	Coil
+LYS	188	Coil
+THR	189	Coil
+LEU	190	Coil
+HIS	191	Helix 4-T
+LYS	192	Helix 4-T
+ARG	193	Helix 4-T
+TYR	194	Helix 4-T
+ALA	195	Helix 4-T
+TYR	196	Helix 4-T
+GLN	197	Helix 4-T
+ILE	198	Helix 4-T
+VAL	199	Helix 4-T
+LEU	200	Helix 4-T
+GLN	201	Helix 4-T
+THR	202	Helix 4-T
+ARG	203	Helix 4-T
+GLN	204	Helix 4-T
+ILE	205	Coil
+LEU	206	3-T
+LEU	207	Coil
+ALA	208	Coil
+LEU	209	Coil
+SER	211	Turn
+LEU	212	Coil
+VAL	213	B Para.
+ASP	214	B Para.
+ILE	215	B Para.
+SER	216	Coil
+VAL	217	Coil
+HIS	219	Turn
+GLY	220	Coil
+LYS	221	Turn
+HIS	222	Coil
+ILE	223	B AntiP.
+THR	224	B AntiP.
+VAL	225	B AntiP.
+CYS	226	Turn
+GLY	227	Coil
+ASP	228	Turn
+VAL	229	3-T
+HIS	230	Turn
+GLY	231	Turn
+GLN	232	Helix 4-T
+PHE	233	Helix 4-T
+TYR	234	Helix 4-T
+ASP	235	Helix 4-T
+LEU	236	Helix 4-T
+LEU	237	Helix 4-T
+ASN	238	Helix 4-T
+ILE	239	Helix 4-T
+PHE	240	Helix 4-T
+GLU	241	Coil
+LEU	242	Coil
+ASN	243	Coil
+GLY	244	Coil
+LEU	245	Coil
+SER	247	3-T
+GLU	248	Coil
+GLU	249	Coil
+ASN	250	Turn
+TYR	252	Coil
+LEU	253	Turn
+PHE	254	Turn
+ASN	255	Coil
+GLY	256	Coil
+ASP	257	Turn
+PHE	258	Turn
+VAL	259	Coil
+ASP	260	Turn
+ARG	261	Turn
+GLY	262	Coil
+SER	263	Coil
+PHE	264	Helix 4-T
+SER	265	Helix 4-T
+VAL	266	Helix 4-T
+GLU	267	Helix 4-T
+ILE	268	Helix 4-T
+ILE	269	Helix 4-T
+LEU	270	Helix 4-T
+THR	271	Helix 4-T
+LEU	272	Helix 4-T
+PHE	273	Helix 4-T
+ALA	274	Helix 4-T
+PHE	275	Helix 4-T
+LYS	276	Coil
+CYS	277	Coil
+MET	278	Coil
+CYS	279	3-T
+SER	281	Coil
+SER	282	Turn
+ILE	283	Coil
+TYR	284	Turn
+LEU	285	Coil
+ALA	286	Turn
+ARG	287	Coil
+GLY	288	3-T
+ASN	289	Coil
+HIS	290	Coil
+GLU	291	Coil
+SER	292	Helix 4-T
+LYS	293	Helix 4-T
+SER	294	Coil
+MET	295	4-T
+ASN	296	Turn
+LYS	297	Coil
+ILE	298	Turn
+TYR	299	Turn
+GLY	300	Helix 4-T
+PHE	301	Helix 4-T
+GLU	302	Helix 4-T
+GLY	303	Helix 4-T
+GLU	304	Helix 4-T
+VAL	305	Helix 4-T
+ARG	306	Coil
+SER	307	Coil
+LYS	308	Coil
+LEU	309	Coil
+SER	310	Helix 4-T
+GLU	311	Helix 4-T
+LYS	312	Helix 4-T
+PHE	313	Helix 4-T
+VAL	314	Helix 4-T
+ASP	315	Helix 4-T
+LEU	316	Helix 4-T
+PHE	317	Helix 4-T
+ALA	318	Helix 4-T
+GLU	319	Helix 4-T
+VAL	320	Helix 3-T
+PHE	321	Helix 3-T
+CYS	322	Coil
+TYR	323	Coil
+LEU	324	Coil
+LEU	326	Turn
+ALA	327	Turn
+HIS	328	Coil
+VAL	329	Turn
+ILE	330	4-T
+ASN	331	Coil
+GLY	332	Turn
+LYS	333	Turn
+VAL	334	Turn
+PHE	335	Turn
+VAL	336	Turn
+VAL	337	Turn
+HIS	338	Turn
+GLY	339	Turn
+GLY	340	Coil
+LEU	341	Coil
+PHE	342	Turn
+SER	343	Coil
+VAL	344	Coil
+ASP	345	Coil
+GLY	346	Coil
+VAL	347	Turn
+LYS	348	Helix 4-T
+LEU	349	Helix 4-T
+SER	350	Helix 4-T
+ASP	351	Coil
+ILE	352	3-T
+ARG	353	Turn
+ALA	354	Coil
+ILE	355	Turn
+ASP	356	Coil
+ARG	357	Turn
+PHE	358	Coil
+CYS	359	Coil
+GLU	360	Coil
+GLU	363	Coil
+GLU	364	Coil
+GLY	365	Helix 4-T
+LEU	366	Helix 4-T
+MET	367	Helix 4-T
+CYS	368	Helix 4-T
+GLU	369	Helix 4-T
+LEU	370	Turn
+LEU	371	Turn
+TRP	372	Coil
+SER	373	Turn
+ASP	374	Turn
+GLN	376	Turn
+LEU	378	Turn
+GLY	380	B AntiP.
+ARG	381	Turn
+GLY	382	Turn
+SER	384	Turn
+LYS	385	Coil
+ARG	386	Coil
+GLY	387	Coil
+VAL	388	Turn
+GLY	389	Turn
+LEU	390	Turn
+SER	391	Turn
+PHE	392	Turn
+GLY	393	Coil
+GLY	394	Turn
+ASP	395	Turn
+VAL	396	Turn
+THR	397	Coil
+LYS	398	Coil
+ARG	399	Coil
+PHE	400	Coil
+LEU	401	Coil
+GLN	402	Coil
+ASP	403	Coil
+ASN	404	Coil
+ASN	405	Coil
+LEU	406	Coil
+ASP	407	Turn
+LEU	408	Turn
+LEU	409	Turn
+VAL	410	B Para.
+ARG	411	B Para.
+SER	412	B Para.
+HIS	413	Coil
+GLU	414	Turn
+VAL	415	Coil
+LYS	416	Turn
+ASP	417	Turn
+GLU	418	Turn
+GLY	419	Turn
+TYR	420	Turn
+GLU	421	B Para.
+VAL	422	B Para.
+GLU	423	Turn
+HIS	424	Turn
+ASP	425	Turn
+GLY	426	Turn
+LYS	427	B Para.
+LEU	428	B Para.
+ILE	429	B Para.
+THR	430	Turn
+VAL	431	Turn
+PHE	432	B AntiP.
+SER	433	B AntiP.
+ALA	434	B AntiP.
+ASN	436	Turn
+TYR	437	Turn
+CYS	438	B Para.
+ASP	439	B Para.
+GLN	440	B Para.
+MET	441	B Para.
+GLY	442	Turn
+ASN	443	Turn
+LYS	444	Turn
+GLY	445	Coil
+ALA	446	Turn
+PHE	447	Turn
+ILE	448	Turn
+ARG	449	Coil
+PHE	450	Turn
+GLU	451	Coil
+ALA	452	Coil
+ASP	454	Turn
+MET	455	Turn
+LYS	456	Turn
+ASN	458	Coil
+ILE	459	Turn
+VAL	460	Turn
+THR	461	B Para.
+PHE	462	B Para.
+SER	463	B Para.
+ALA	464	Turn
+VAL	465	Turn
+HIS	467	Coil
+ASP	469	B Para.
+VAL	470	B Para.
+LYS	471	B Para.
+MET	473	Turn
+ALA	474	Turn
+TYR	475	Turn
+ALA	476	Turn
+ASN	477	Turn
+ASN	478	Turn
+PHE	479	B Para.
+LEU	480	Coil
+ARG	481	Coil
+MET	482	Coil
+PHE	483	Coil
